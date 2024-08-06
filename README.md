@@ -63,11 +63,12 @@ npm run start:dev
 Technologies used in the project:
 
 - VueJS
+- NuxtJS
 - Pinia
 - TypeScript
 - NestJS
 - PostgreSQL
-- RESTful API
+- TailwindCSS
 
 Here are some screenshots of the project:
 
