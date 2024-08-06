@@ -1,6 +1,6 @@
-<h1 align="center" id="title">CS Timer</h1>
+<h1 align="center" id="title">Speed Solve</h1>
 
-<p align="center"><img src="https://socialify.git.ci/oiibar/CS_Timer/image?language=1&amp;name=1&amp;owner=1&amp;pattern=Solid&amp;theme=Light" alt="project-image"></p>
+<p align="center"><img src="https://socialify.git.ci/oiibar/SpeedSolve/image?language=1&name=1&owner=1&pattern=Solid&theme=Light" alt="project-image"></p>
 
 <p id="description">This is a user-friendly and simple version of a <a href="https://cstimer.net/">popular speecubing timer</a> web app with user authentication</p>
 
@@ -19,13 +19,13 @@ Here're some of the project's best features:
 <p>1. Clone the project</p>
 
 ```
-git clone https://github.com/oiibar/CS_Timer.git
+git clone https://github.com/oiibar/SpeedSolve.git
 ```
 
 <p>2. Navigate to the client folder</p>
 
 ```
-cd CS_Timer/client
+cd SpeedSolve/client
 ```
 
 <p>3. Install client-side packages</p>
@@ -43,7 +43,7 @@ npm run dev
 <p>5. Navigate to the server folder</p>
 
 ```
-cd CS_Timer/server
+cd SpeedSolve/server
 ```
 
 <p>6. Install server-side packages</p>
@@ -62,19 +62,17 @@ npm run start:dev
 
 Technologies used in the project:
 
-- ReactJS
-- NestJS
+- VueJS
+- Pinia
 - TypeScript
+- NestJS
 - PostgreSQL
 - RESTful API
-- Redux Toolkit
 
 Here are some screenshots of the project:
 
 <p align="center">
-  <img src="./previews/Auth.png" alt="Screenshot">
-  <img src="./previews/Main.png" alt="Screenshot">
-  <img src="./previews/Details.png" alt="Screenshot">
+  
 </p>
 
 <h2>💖Like my work?</h2>
